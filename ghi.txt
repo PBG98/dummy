@@ -1,1 +1,3 @@
 this is my 3rd text
+
+new line from remote
